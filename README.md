@@ -1,4 +1,10 @@
-# bitcoincash
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://www.bitcoincash.org/media-kit/4-bitcoin-cash-logo-flag-small.png" alt="Bitcoin Cash logo" height="72">
+  </a>
+</p>
+
+<h3 align="center">BitcoinCash.org</h3>
 
 This is the repository for [bitcoincash.org](https://bitcoincash.org). As the Bitcoin Cash community expands, we hope that many will participate and improve this project over time.
 
