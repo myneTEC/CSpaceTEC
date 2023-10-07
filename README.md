@@ -1,6 +1,4 @@
-# bitcoincash (watch: https://github.com/myneTEC/bitcoincash.org/blob/master/erc20contract.sol for ethereum contract)
-
-This is the repository for [bitcoincash.org](https://bitcoincash.org). As the Bitcoin Cash community expands, we hope that many will participate and improve this project over time.
+This is the repository for [SpaceTEC-Aerosystems](https://spacetec-aerosystems.mynetec.com). As the company and community for it expands, we hope that many will participate and improve the projects over time.
 
 Build & Run the Docker Image
 ----------------------------
@@ -23,31 +21,13 @@ Adding Translations
 
 To add translations to the project, use `_i18n/en.yml` as a template and create a new file for your locale. Then translate all the content inside of the yaml file and send us a pull request.
 
-About Bitcoin Cash
-------------------
+About SpaceTEC-Aerosystems
+--------------------------
 
-Bitcoin Cash brings sound money to the world.  Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development.
-
-All Bitcoin holders as of block 478558 are now owners of Bitcoin Cash. All Bitcoiners are welcome to join the Bitcoin Cash community as we move forward in creating sound money accessible to the whole world.
-
-Listing Policy for Exchanges, Wallets, and Projects
----------------------------------------------------
-
-Although many exchanges, wallets, and other projects would like to be listed on our website, BitcoinCash.org is not meant to be an exhaustive directory.
-There is limited space and quite simply, we only want to showcase the best of the best.
-
-Only the top several exchanges by trading volume in each country will be considered.
-
-For wallets, we only want to list those that have the highest trust and best reputation within the community.
-Relevant factors include the brand, the age of the wallet, as well as the track record of the company, developers, and/or other individuals involved.
-
-We apologize in advance if we're unable to provide a listing for you on BitcoinCash.org.
-We acknowledge the criteria for wallet listings are somewhat subjective.
-Please understand our decisions are not personal, but rather based on a conservative approach and our responsbility to safeguard the community against questionable projects.
-Lastly, no listing should be interpreted as our explicit endorsement.
+SpaceTEC-Aerosystems brings still missing solutions to the world.  Merchants and users are empowered with latest solutions and ideas. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and development.
 
 License
 -------
 
-bitcoincash.org is released under the terms of the MIT license. See [COPYING](COPYING) for more
+SpaceTEC-Aerosystems is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
