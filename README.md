@@ -1,4 +1,4 @@
-This is the repository for [SpaceTEC-Aerosystems](https://spacetec-aerosystems.mynetec.com). As the company and community for it expands, we hope that many will participate and improve the projects over time.
+This is the repository Basis original coming from Bitcoin Cash for own further development into [SpaceTEC-Aerosystems](https://spacetec-aerosystems.mynetec.com). As the company and community for it expands, we hope that many will participate and improve the projects over time.
 
 Build & Run the Docker Image
 ----------------------------
